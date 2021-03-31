@@ -1,1 +1,2 @@
 This is File A - modified again
+This is second line
